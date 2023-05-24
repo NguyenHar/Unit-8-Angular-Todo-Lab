@@ -1,5 +1,7 @@
-# Unit8AngularTodoLab
+# Grand Circus Labs
+Referenced Document: https://docs.google.com/document/d/1D41rE5ickCs901Hx4zjoIKUKyc_K0k69GtYvHZp0uzI/preview
 
+# Unit8AngularTodoLab
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
 ## Development server
