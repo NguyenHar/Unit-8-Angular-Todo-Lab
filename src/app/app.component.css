@@ -1,0 +1,19 @@
+
+
+body {
+    Font-family: Open Sans; 
+    Font-weight: 300; 
+    background: linear-gradient(to right, #f857a6, #ff5858);
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0px;
+}
+
+.todoForm {
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75); 
+    background-color: #eee;
+    margin-top:auto;
+    margin-right:20%;
+    margin-left:20%;
+    padding-bottom:20%;
+}
